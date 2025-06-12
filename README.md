@@ -2,10 +2,15 @@
 
 ### 📖Languages & Frameworks📖
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-80247B?logo=Csharp&style=flat"/> <img src="https://img.shields.io/badge/Unity-A8B9CC?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+
+### Once I Used
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
 ### 💻Projects💻
 <details>
 <summary><a href="https://github.com/Jinwook-Lee9709/ReStartup">유니티 팀 프로젝트 Re:StartUp</a><br><img src="https://img.shields.io/badge/-C%23-80247B?logo=Csharp&style=flat"/> <img src="https://img.shields.io/badge/Unity-A8B9CC?style=flat-square&logo=unity&logoColor=white"/></summary>
 <div markdown="1">
+
   
 |<img width="200" alt="스크린샷1" src="https://github.com/user-attachments/assets/32f7aadd-6905-4e64-b463-8633e9fb3396"/>|<img width="200" alt="스크린샷2" src="https://github.com/user-attachments/assets/7e761582-b2d0-419d-b03e-60d58ed75144" />|<img width="200" alt="스크린샷3" src="https://github.com/user-attachments/assets/3164f5ba-1634-415b-95b4-7721a0265158" />|
 |:---:|:---:|:---:|
