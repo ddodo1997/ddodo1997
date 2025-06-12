@@ -20,7 +20,7 @@
 </div>
 </details>
 <details>
-<summary><a href="https://github.com/ddodo1997/SFML-Team-Project/tree/main">C++ 팀 프로젝트 HotLine-Miami 모작</a><br><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/></summary>
+<summary><a href="https://github.com/ddodo1997/SFML-Team-Project/tree/Daily">C++ 팀 프로젝트 HotLine-Miami 모작</a><br><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/></summary>
 <div markdown="1">
 
 |<img width="200" alt="스크린샷2" src="https://github.com/user-attachments/assets/72048abb-adc5-4a5c-af7c-c517a24ed561"/><br><img width="200" alt="스크린샷1" src="https://github.com/user-attachments/assets/b7711125-2602-430c-bb91-8d4f696c41d5"/>|<img width="200" alt="스크린샷3" src="https://github.com/user-attachments/assets/8d66a0af-57b4-4bda-8cb5-5d46ed8161f7"/>
