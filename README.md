@@ -1,5 +1,7 @@
 ## 🧸 About Me 🧸
 
+게임 개발자를 목표로 오늘도 정진합니다.
+
 ### 📖Languages & Frameworks📖
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-80247B?logo=Csharp&style=flat"/> <img src="https://img.shields.io/badge/Unity-A8B9CC?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 
